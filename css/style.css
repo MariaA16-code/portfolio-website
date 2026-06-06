@@ -325,6 +325,20 @@ body{
   color:#818cf8;
 }
 
+.project-links {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+.proj-link {
+  text-decoration: none;
+  color: #818cf8;
+  font-size: 14px;
+}
+
+.proj-link:hover {
+  color: #a5b4fc;
+}
 /* CONTACT */
 
 .contact-box{
