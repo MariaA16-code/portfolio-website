@@ -3,7 +3,7 @@
 Personal developer portfolio built with HTML, CSS, and JavaScript.
 
 ## Live Demo
-Coming soon — will be deployed on Netlify
+view on netlify    mariaamir-dev.netlify.app
 
 ## Built With
 - HTML / CSS / JavaScript
